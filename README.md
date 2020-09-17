@@ -2,7 +2,7 @@
 支付宝免签技术解决方案，适合大额金融收款
 
 # demo
-https://thinkadmin.xingzhijishu.cn/index/order  
+https://cmpay.xingzhijishu.cn/index/index/ali_ebank 
 
 # 使用技术栈
 php+chrome+python+开源硬件
